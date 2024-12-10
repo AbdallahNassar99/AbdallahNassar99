@@ -23,7 +23,5 @@
 📧 **Let's Collaborate**: Have an interesting project or need assistance with BI solutions? Feel free to reach out at [ahmedgomaanegm@gmail.com](mailto:ahmedgomaanegm@gmail.com)!
 ### <h3 align="left">Languages and Tools : </h3> 
 ![sql](https://img.shields.io/badge/-sql-05122A?style=flat&logo=sql)&nbsp;
-![excel](https://img.shields.io/badge/-excel-05122A?style=flat&logo=excel)&nbsp;
-![python](https://img.shields.io/badge/-sql-05122A?style=flat&logo=python)&nbsp;
-![powerbi](https://img.shields.io/badge/-powerbi-05122A?style=flat&logo=powerbi)&nbsp;
+![Python](https://img.shields.io/badge/-Python%20-05122A?style=flat&logo=python)&nbsp;
 
