@@ -11,10 +11,10 @@
 - Data Modeling: Expertise in designing efficient data models for optimal performance and scalability.
 - Excel: Used in data analysis for organizing, visualizing, and analyzing data through features like pivot tables, charts, and powerful functions.
 - Python: Basic proficiency for scripting and automation tasks.
-- 
+
 🌱 **Currently Learning**: Continuously exploring advanced data visualization techniques and machine learning algorithms to enhance decision-making capabilities.
 
-💬<h3 align="left">Connect with me : </h3>
+<h3 align="left">Connect with me : </h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/abdallah-nassar99" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"  height="30" width="40" /></a>
 </p> 
