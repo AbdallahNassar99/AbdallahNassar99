@@ -1,3 +1,4 @@
+<h3 align="center">Hi 👋, I'm Abdallah Nassar </h3>
 📊 **Data Analyst | Business Intelligence**
 
 👋 Hey there! I'm Abdallah Nassar, a passionate BI developer with a knack for turning data into actionable insights. With a strong foundation in SQL and a love for crafting intuitive dashboards, I thrive on empowering businesses to make informed decisions.
