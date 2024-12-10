@@ -25,7 +25,7 @@
 ![Python](https://img.shields.io/badge/-Python%20-05122A?style=flat&logo=python)&nbsp;
 ![ETL](https://img.shields.io/badge/-ETL%20-05122A?style=flat&logo=apache-airflow&logoColor=white)&nbsp;
 ![Power BI](https://img.shields.io/badge/-Power%20BI%20-FDDB27?style=flat&logo=powerbi&logoColor=white)&nbsp;
-![SQL](https://img.shields.io/badge/-SQL%20-28A745?style=flat&logo=sqlite&logoColor=white)&nbsp;
+![Excel](https://img.shields.io/badge/-Excel%20-28A745?style=flat&logo=wxcelite&logoColor=white)&nbsp;
 
 
 
