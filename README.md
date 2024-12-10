@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Mohamed Nassar </h1>
-<h3 align="center">A passionate Frontend Developer from Egypt</h3>
+<h1 align="center">Hi 👋, I'm Abdallah Nassar </h1>
+<h3 align="center">A passionate Data Analyst | Busi from Egypt</h3>
 
 - 🌱 I’m currently learning **Frontend Development & Software Development**
   
